@@ -1,0 +1,23 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Prueba tecnica OMNI.PRO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatianaGiraldo/prueba.tecnica.omni.pro.git"
+  },
+  "author": "Tatiana Giraldo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatianaGiraldo/prueba.tecnica.omni.pro/issues"
+  },
+  "homepage": "https://github.com/TatianaGiraldo/prueba.tecnica.omni.pro#readme",
+  "dependencies": {
+    "cypress": "^13.9.0"
+  }
+}
