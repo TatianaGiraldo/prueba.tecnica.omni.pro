@@ -59,12 +59,19 @@ Esto abrirá la interfaz de usuario de Cypress donde podrás seleccionar y ejecu
 Descripción de los Scripts de Prueba
 
 01_search_product_desktop.cy.js: Verifica la funcionalidad de búsqueda de productos en la versión de escritorio.
+
 02_add_product_to_cart_desktop.cy.js: Prueba la adición de productos al carrito en la versión de escritorio.
+
 03_search_product_add_cart_desk.cy.js: Combinación de búsqueda y adición al carrito en escritorio.
+
 04_category_navigation_desktop.cy.js: Navegación por categorías en la versión de escritorio.
+
 05_search_filter_products_mobile.cy.js: Búsqueda y filtrado de productos en la versión móvil.
+
 06_verify_user_exp_h_p_mobile.cy.js: Verificación de la experiencia del usuario en la página principal en móvil.
+
 07_create_account_mobile.cy.js: Prueba de la creación de una cuenta de usuario en la versión móvil.
+
 08_add_product_wish_list_mobile.cy.js: Adición de productos a la lista de deseos en la versión móvil.
 
 Notas
