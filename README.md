@@ -6,20 +6,35 @@ Estructura del Proyecto
 La estructura del proyecto es la siguiente:
 .
 ├── cypress/
+
 │   ├── e2e/
+
 │   │   ├── 01_search_product_desktop.cy.js
+
 │   │   ├── 02_add_product_to_cart_desktop.cy.js
+
 │   │   ├── 03_search_product_add_cart_desk.cy.js
+
 │   │   ├── 04_category_navigation_desktop.cy.js
+
 │   │   ├── 05_search_filter_products_mobile.cy.js
+
 │   │   ├── 06_verify_user_exp_h_p_mobile.cy.js
+
 │   │   ├── 07_create_account_mobile.cy.js
+
 │   │   ├── 08_add_product_wish_list_mobile.cy.js
+
 │   ├── screenshots/
+
 │   ├── support/
+
 │   │   ├── component-index.html
+
 │   │   ├── component.js
+
 ├── cypress.config.js
+
 
 Pre-requisitos
 Para ejecutar estos scripts de prueba, asegúrate de tener las siguientes herramientas instaladas:
