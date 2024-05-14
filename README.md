@@ -1,5 +1,5 @@
 Prueba Técnica - QA Engineer
-Descripción
+
 Este repositorio contiene los scripts de prueba desarrollados en Cypress como parte de la prueba técnica para la vacante de QA Engineer en OMNI.PRO. Los scripts están diseñados para automatizar la verificación de funcionalidades clave del sitio web y asegurar que todo funcione según lo esperado.
 
 Estructura del Proyecto
@@ -29,9 +29,9 @@ Cypress
 
 Instalación
    1. Clona el repositorio en tu máquina local:
-      git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+      git clone https://github.com/TatianaGiraldo/prueba.tecnica.omni.pro.git
    2. Navega al directorio del proyecto:
-      cd nombre-del-repositorio
+      cd prueba.tecnica.omni.pro
    3. Instala las dependencias:
       npm install
 
@@ -56,6 +56,6 @@ Notas
 Asegúrate de configurar correctamente el entorno y las variables necesarias antes de ejecutar las pruebas.
 Los scripts están diseñados para ser ejecutados en el entorno de prueba especificado. Pueden necesitar ajustes si se ejecutan en un entorno diferente.
 
-Tatiana Giraldo Porras
+Tatiana Giraldo
 Ingeniera de software
 atgiraldo9@gmail.com
